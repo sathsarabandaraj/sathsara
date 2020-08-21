@@ -18,6 +18,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597969746767</updated>
       <workItem from="1597969748249" duration="586000" />
-      <workItem from="1597970353587" duration="953000" />
+      <workItem from="1597970353587" duration="1902000" />
     </task>
     <servers />
   </component>
@@ -75,10 +82,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="192" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1597970274877">
+    <state x="441" y="96" width="513" height="609" key="#index.html" timestamp="1597972138365">
       <screen x="40" y="27" width="1326" height="741" />
     </state>
-    <state x="192" y="31" width="1022" height="737" key="SettingsEditor/40.27.1326.741@40.27.1326.741" timestamp="1597970274877" />
+    <state x="441" y="96" width="513" height="609" key="#index.html/40.27.1326.741@40.27.1326.741" timestamp="1597972138365" />
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1597972174530">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor/40.27.1326.741@40.27.1326.741" timestamp="1597972174530" />
     <state x="427" y="244" width="552" height="314" key="cloudConfig.PluginsDialog" timestamp="1597970312046">
       <screen x="40" y="27" width="1326" height="741" />
     </state>
@@ -87,5 +98,9 @@
       <screen x="40" y="27" width="1326" height="741" />
     </state>
     <state x="576" y="244" width="600" height="314" key="cloudConfig.SelfSettingsDialog/40.27.1326.741@40.27.1326.741" timestamp="1597970298356" />
+    <state x="482" y="90" width="432" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597972151155">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="482" y="90" width="432" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/40.27.1326.741@40.27.1326.741" timestamp="1597972151155" />
   </component>
 </project>
