@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fa61312-65dd-4d92-88fd-ebcd9825caac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0192db7d-b90f-424e-aad4-304ede4ab1d3" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/sathsarabandaraj/sathsara.pr.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNzH1k1EpxG6sTcxjsiNquTps5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa61312-65dd-4d92-88fd-ebcd9825caac" name="Default Changelist" comment="" />
+      <created>1597969746767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597969746767</updated>
+      <workItem from="1597969748249" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1597970274877">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor/40.27.1326.741@40.27.1326.741" timestamp="1597970274877" />
+    <state x="427" y="244" width="552" height="314" key="cloudConfig.PluginsDialog" timestamp="1597970312046">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="427" y="244" width="552" height="314" key="cloudConfig.PluginsDialog/40.27.1326.741@40.27.1326.741" timestamp="1597970312045" />
+    <state x="576" y="244" width="600" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1597970298356">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="576" y="244" width="600" height="314" key="cloudConfig.SelfSettingsDialog/40.27.1326.741@40.27.1326.741" timestamp="1597970298356" />
+  </component>
+</project>
